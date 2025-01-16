@@ -10,3 +10,7 @@ Exploring various techniques to enhance performance and add polish to gameplay.
 Martian Mike demonstrates strong foundational skills in 2D game development, ideal for platformer enthusiasts.
 
 You can play it on my itch page: Ahmadnasser.itch.io/martian-mike
+![Screenshot 2025-01-16 105821](https://github.com/user-attachments/assets/49985444-ef37-4d53-9cd8-627417e42663)
+![Screenshot 2025-01-16 105828](https://github.com/user-attachments/assets/39a3097f-a2cd-48d1-8925-1e86c3061159)
+![Screenshot 2025-01-16 105844](https://github.com/user-attachments/assets/ed24dd36-9769-45c5-a78e-ffa40511808c)
+![Screenshot 2025-01-16 105853](https://github.com/user-attachments/assets/6e783404-1cc2-47fb-a4d2-b88e05ffb751)
